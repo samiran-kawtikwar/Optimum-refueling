@@ -179,7 +179,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.2
 pybind11==2.10.0
 pycparser==2.21
-pygments==2.13.0
+pygments==2.15.0
 pylcs==0.0.7
 pyparsing==3.0.9
 pyproj==3.4.0
