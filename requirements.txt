@@ -213,7 +213,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rtree==1.0.1
 scikit-learn==1.2.0
-scipy==1.9.1
+scipy==1.10.0
 seaborn==0.12.0
 send2trash==1.8.0
 setuptools-scm==7.0.5
